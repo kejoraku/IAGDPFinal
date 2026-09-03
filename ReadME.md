@@ -1,8 +1,13 @@
-Sistema de Catastro Inteligente (SCI)
-Proyecto Final: Entretejiendo Imaginación y Algoritmos
-Curso: Inteligencia Artificial: Generación de Prompts
-Autor: Raniero De Giusto
-Comisión: N°95970
+##Sistema de Catastro Inteligente (SCI)  
+
+#Proyecto Final: Entretejiendo Imaginación y Algoritmos  
+
+#Curso: Inteligencia Artificial: Generación de Prompts  
+
+#Autor: Raniero De Giusto  
+
+#Comisión: N°95970  
+
 
 Resumen
 El Sistema de Catastro Inteligente (SCI) es una Prueba de Concepto (POC) diseñada para automatizar y optimizar la fase preliminar de visado técnico y evaluación legal de parcelas urbanas en entornos municipales. Mediante una arquitectura unificada de Fast Prompting, el sistema procesa datos técnicos complejos de expedientes de obra y marcos regulatorios locales en una única consulta estructurada. Como resultado, genera simultáneamente un reporte en lenguaje accesible para el ciudadano, un análisis de restricciones técnicas (benchmarking) y una directiva visual avanzada en inglés (prompt); este último es validado en la plataforma de difusión Nightcafe para renderizar proyecciones aéreas conceptuales de las parcelas evaluadas.
