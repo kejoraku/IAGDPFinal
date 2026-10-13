@@ -57,7 +57,7 @@ La implementación real de la POC arrojó las siguientes conclusiones analítica
 2. **Claridad del Lenguaje Ciudadano:** El bloque de salida tradujo el lenguaje técnico de agrimensura a directivas ciudadanas claras e instructivas en su dictamen preliminar, ordenando readecuar los planos y reducir los niveles excedidos antes de volver a presentar el expediente, solucionando la omisión del FOS de la entrega anterior.
 3. **Validación y Coherencia del Modelo Texto-Imagen:** Tras aplicar la retroalimentación docente, se reestructuró la directiva visual eliminando términos ambiguos (como "grid layout" o números explícitos). Al ingresar el prompt depurado en Nightcafe, el modelo aisló exitosamente una **única parcela rectangular vacía con un contorno rojo sólido perimetral**, cumpliendo con la correspondencia semántica del caso testigo y eliminando por completo las distorsiones tipográficas y las vistas masivas vecinales de la primera entrega.
 ### 🖼️ Evidencia Gráfica del Render Conceptual (Lote Individual Corregido)
-
+![Plano Conceptual de la Parcela Corregida](./resultado_parcela.jpg)
 
 ## #Conclusiones
 El desarrollo del proyecto demostró que la implementación de técnicas de Fast Prompting aplicadas a la administración pública es completamente factible y escalable, siempre y cuando se rija bajo entornos de ejecución reales y modularizados.
